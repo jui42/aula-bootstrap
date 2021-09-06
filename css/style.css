@@ -1,0 +1,48 @@
+body font{
+    font-family: arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+    
+    
+}
+
+.logo {
+    border-radius: 100%;
+    
+}
+
+
+
+.navbar {
+    background-color: white;
+    
+    
+}
+
+.nav-link {
+    color: rgb(161, 161, 161);
+    
+}
+
+
+
+.quem-somos {
+    background-color: yellowgreen;
+        
+        
+}
+
+.parceiros {
+    background-color: rgb(161, 161, 161);
+    color: white;
+
+    
+}
+
+.margin {
+    padding: 8px;
+    
+}
+
+#cor-serviços {
+    color: gray;
+}
+
